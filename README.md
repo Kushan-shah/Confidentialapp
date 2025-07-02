@@ -12,7 +12,7 @@ Traditional blockchains expose all data to the public, which is a major problem 
 - Smart contract evaluates encrypted data using Zama’s FHE extensions
 - Result (approved/rejected) is returned encrypted and decrypted client-side
 - Built with Solidity, React, and `@zama-fhe/relayer-sdk`
-- Deployed on Zama’s FHEVM testnet (RPC: https://devnet.zama.ai)
+- Deployed on Zama’s FHEVM testnet 
 
 ## Tech Stack
 
